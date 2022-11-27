@@ -48,7 +48,7 @@
 //// نفس الشيء لاكن الطريقة مختلفة //////
 //
 
-let form = document.getElementById("form");
+ let form = document.getElementById("form");
 form.addEventListener("submit", handleSubmit);
 
 function addrow([...args]) {
